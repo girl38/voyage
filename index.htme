@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE-edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+h1 {
+margin: 0;
+font-size: 4rem;
+}
+body  {
+ color: white;
+ margin: 0;
+ font-family: sans-serif;
+}
+
+p {
+margin: 0 5rem;
+font-size: 1.8rem;
+}
+
+.down {
+ background: #FF3C00;
+ text-align: center;
+}
+
+svg {
+display:block;
+}
+</style>
+</head>
+<body>
+
+<div class="up">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 319"><path fill="#FF3C00" fill-opacity="1" d="M0,288L48,266.7C96,245,192,203,288,170.7C384,139,480,117,576,138.7C672,160,768,224,864,250.7C960,277,1056,267,1152,256C1248,245,1344,235,1392,229.3L1440,224L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+</div>
+<div class="down">
+<h1>Wave Page Heading</h1>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="white" fill-opacity="1" d="M0,288L48,266.7C96,245,192,203,288,170.7C384,139,480,117,576,138.7C672,160,768,224,864,250.7C960,277,1056,267,1152,256C1248,245,1344,235,1392,229.3L1440,224L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+</div>
+</body>
+</html> 
